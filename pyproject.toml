@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "auto-gui"
+version = "0.1.0"
+description = ""
+authors = ["markshawn2020 <shawninjuly@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+anthropic = "^0.39.0"
+pyautogui = "^0.9.54"
+pillow = "^11.0.0"
+python-dotenv = "^1.0.1"
+requests = "^2.32.3"
+cs-magic-log = "^0.1.1"
+keyboard = "^0.13.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
