@@ -88,5 +88,5 @@ MIT License
 
 ## 联系方式
 
-- 项目主页: https://github.com/yourusername/ai-browser-assistant
-- 问题反馈: https://github.com/yourusername/ai-browser-assistant/issues
+- 项目主页: https://github.com/cs-magic/auto-gui
+- 问题反馈: https://github.com/cs-magic/auto-gui/issues
